@@ -1,0 +1,6 @@
+1001,Lucas,5
+1002,Daniel,3
+1003,Roberto,5
+1004,Sara,3
+1005,Hilmar,5
+1006,Mafe,3
